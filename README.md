@@ -3,6 +3,6 @@
 
 git add .
 
-git commit -m "mensaje"
+git commit -m "Subiendo todo el contenido inicial del curso"
 
 git push
