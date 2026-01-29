@@ -8,8 +8,8 @@ git push
 
 python -m venv python_mdc
 
-cd Curso-de-Python-MDC-2026
-
+##### activar 
 .\python_mdc\Scripts\Activate.ps1
 
+##### desactivar 
 deactivate
