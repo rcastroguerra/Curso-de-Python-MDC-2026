@@ -13,3 +13,12 @@ python -m venv python_mdc
 
 ##### desactivar 
 deactivate
+
+##### activar jupyter lab
+jupyter lab
+
+#### url
+http://localhost:8888/lab
+
+##### desactivar jupyter lab
+CTRL + C
