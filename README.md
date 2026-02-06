@@ -22,3 +22,11 @@ http://localhost:8888/lab
 
 ##### desactivar jupyter lab
 CTRL + C
+
+
+##### subir pdf
+git add -f "Chapter/Chapter 004 Branching/archivo.pdf"
+
+git commit -m "Agregar PDF"
+
+git push
