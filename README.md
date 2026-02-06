@@ -8,23 +8,23 @@ git push
 
 python -m venv python_mdc
 
-##### activar 
+## activar 
 .\python_mdc\Scripts\Activate.ps1
 
-##### desactivar 
+## desactivar 
 deactivate
 
-##### activar jupyter lab
+## activar jupyter lab
 jupyter lab
 
-#### url
+## url
 http://localhost:8888/lab
 
-##### desactivar jupyter lab
+## desactivar jupyter lab
 CTRL + C
 
 
-##### subir pdf
+## subir pdf
 git add -f "Chapter/Chapter 004 Branching/archivo.pdf"
 
 git commit -m "Agregar PDF"
