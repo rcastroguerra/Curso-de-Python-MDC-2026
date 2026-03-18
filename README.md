@@ -25,8 +25,11 @@ CTRL + C
 
 
 ## subir pdf
-git add -f "Chapter/Chapter 004 Branching/archivo.pdf"
+git add -f "Chapter\Chapter 005 Loops\Loops.pdf"
 
 git commit -m "Agregar PDF"
 
 git push
+
+
+"C:\Users\acast\Documents\GitHub\Curso-de-Python-MDC-2026\Chapter\Chapter 005 Loops\Loops.pdf"
