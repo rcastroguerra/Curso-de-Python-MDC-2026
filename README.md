@@ -39,6 +39,11 @@ git push
 
 "C:\Users\acast\Documents\GitHub\Curso-de-Python-MDC-2026\Chapter\Chapter 005 Loops\Loops.pdf"
 
+
+*.pdf
+
+
 git add -f "Chapter/**/*.pdf"
+git add -f "Knowledge Pillars Domain/**/*.pdf"
 git commit -m "Agregar todos los PDFs"
 git push
