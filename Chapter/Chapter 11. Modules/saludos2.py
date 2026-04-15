@@ -1,4 +1,4 @@
-mensaje = "Buenos días!!"
+mensaje = "Hola!"
 
 def saludar():
     print(mensaje)
