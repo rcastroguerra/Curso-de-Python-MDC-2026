@@ -45,5 +45,6 @@ git push
 
 git add -f "Chapter/**/*.pdf"
 git add -f "Knowledge Pillars Domain/**/*.pdf"
+git add -f "*.pdf"
 git commit -m "Agregar todos los PDFs"
 git push
